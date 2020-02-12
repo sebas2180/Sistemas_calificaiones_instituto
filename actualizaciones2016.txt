@@ -1,0 +1,2 @@
+001;Colocar memoria;memoria ram 4gb;002;null;000;null;000
+006;Colocar en caja;manual;001;caja;001;null;000

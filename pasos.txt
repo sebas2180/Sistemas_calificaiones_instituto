@@ -1,0 +1,5 @@
+celular             001Colocar memoria          memoria ram 4gb     002null                   null                   
+celular             002poner bateria            bateria             001null                   null                   
+celular             003poner caja               caja                001manual              001null                   
+televisor           004sintonizar               pantalla            001null                   null                   
+celular             005colocar tubos            tubos               004null                   null                   
